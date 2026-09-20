@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "simple": {
+      "type": "http",
+      "url": "https://www.simple-hub.com/api/mcp"
+    }
+  }
+}
